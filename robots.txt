@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace with your production URL after deployment
-Sitemap: https://YOUR-USERNAME.github.io/trust-printing-solution/sitemap.xml
+Sitemap: https://musabbirelias-coder.github.io/trust-printing-solution/sitemap.xml
