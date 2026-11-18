@@ -5,7 +5,7 @@
   /* ===== CONFIG: update after deployment ===== */
   var CONFIG = {
     // Your production URL, with trailing slash. Also update robots.txt and sitemap.xml.
-    siteUrl: 'https://YOUR-USERNAME.github.io/trust-printing-solution/',
+    siteUrl: 'https:///musabbirelias-coder.github.io/trust-printing-solution/',
     whatsappNumber: '8801938986723'
   };
 
